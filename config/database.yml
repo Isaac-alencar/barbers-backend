@@ -23,4 +23,5 @@ production:
   username: <%= ENV["BARBER_SHOPS_API_DATABASE_USERNAME"] %>
   password: <%= ENV["BARBER_SHOPS_API_DATABASE_PASSWORD"] %>
   host: <%= ENV["BARBER_SHOPS_API_DATABASE_HOST"] %>
+  port: 5432
 

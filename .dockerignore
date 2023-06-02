@@ -1,0 +1,7 @@
+tmp/
+
+.git/
+
+.gitignore
+
+config/.local_env
